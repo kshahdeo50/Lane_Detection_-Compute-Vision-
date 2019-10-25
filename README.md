@@ -10,4 +10,4 @@ But modern machine learning methods can be used to identify the features that ar
 success in feature detection tests.
 
 
-<img src = "model/giithub-lane1.png">
+<img src = "model/giithub-lane1.PNG">
