@@ -10,4 +10,17 @@ But modern machine learning methods can be used to identify the features that ar
 success in feature detection tests.
 
 
-<img src = "model/giithub-lane1.PNG">
+# The source image for the lane detection
+ 
+<img src = "model/lane1.PNG">
+
+
+# Output
+
+<img src = "model/lane2.PNG" height = "500">
+
+# image Processing
+
+<img src = "model/lane3.PNG" height  = "300">
+<img src = "model/lane4.PNG" height = "300">
+
