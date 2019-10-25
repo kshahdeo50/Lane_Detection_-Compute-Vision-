@@ -1,4 +1,4 @@
-# Lane_Detection_-Compute-Vision-
+# Lane_Detection_-Computer-Vision- 
 Automatic Detection of road lanes for self driving cars using computer vision
 
 
