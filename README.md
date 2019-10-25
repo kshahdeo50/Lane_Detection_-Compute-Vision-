@@ -8,3 +8,6 @@ techniques. Although many machine learning methods are used for lane detection,
 they are mainly used for classification rather than feature design. 
 But modern machine learning methods can be used to identify the features that are rich in recognition and have achieved
 success in feature detection tests.
+
+
+<img src = "model/giithub-lane1.png">
